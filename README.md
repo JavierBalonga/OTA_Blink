@@ -2,6 +2,7 @@
 This is a project dedicated to making the simplest program that can make OTA (Over The Air) with an esp8266 and a server programmed in php. OTA means that the device can be updated via WiFi.
 
 I did the project because at least for me the examples of the `ESP8266httpUpdate` library did not work.
+
 ---
 ## The project has two sides:
 * Arduino Sketch
